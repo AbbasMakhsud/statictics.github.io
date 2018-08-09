@@ -1,0 +1,2 @@
+# statictics.github.io
+Statistika
